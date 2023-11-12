@@ -1,1 +1,1 @@
-@ This is Dockerized for dotnet core app as part from my learning devops
+# This is Dockerized for dotnet core app as part from my learning devops
