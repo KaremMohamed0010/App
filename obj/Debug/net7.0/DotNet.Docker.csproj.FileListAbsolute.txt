@@ -1,0 +1,14 @@
+/home/karem/DockerStuff/App/bin/Debug/net7.0/DotNet.Docker
+/home/karem/DockerStuff/App/bin/Debug/net7.0/DotNet.Docker.deps.json
+/home/karem/DockerStuff/App/bin/Debug/net7.0/DotNet.Docker.runtimeconfig.json
+/home/karem/DockerStuff/App/bin/Debug/net7.0/DotNet.Docker.dll
+/home/karem/DockerStuff/App/bin/Debug/net7.0/DotNet.Docker.pdb
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfo.cs
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.dll
+/home/karem/DockerStuff/App/obj/Debug/net7.0/refint/DotNet.Docker.dll
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.pdb
+/home/karem/DockerStuff/App/obj/Debug/net7.0/DotNet.Docker.genruntimeconfig.cache
+/home/karem/DockerStuff/App/obj/Debug/net7.0/ref/DotNet.Docker.dll
